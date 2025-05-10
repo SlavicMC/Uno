@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"karciane","l":"Gracz"},{"p":"karciane","l":"Karta"},{"p":"sieciowanie","l":"Klient"},{"p":"karciane","l":"Karta.Kolor"},{"p":"sieciowanie","l":"Pokoj"},{"p":"karciane","l":"Karta.Ranga"},{"p":"sieciowanie","l":"Serwer"}];updateSearchResults();
